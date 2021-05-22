@@ -1,1 +1,3 @@
-"# cpp-solutions" 
+# cpp-solutions
+
+Solutions to c++ problems.
